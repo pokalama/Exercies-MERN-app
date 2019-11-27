@@ -17,7 +17,7 @@ export class CreateExercise extends Component {
       description: "",
       duration: 0,
       date: new Date(),
-      users: []
+      users: [],
     };
   }
 
